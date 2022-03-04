@@ -15,10 +15,7 @@
 #include <netinet/in.h>
 
 /*****************opengl***********************/
-#include <cglm/cglm.h>
-#include "json.h"
 #include "myCode/opengl.h"
-
 #include "myCode/window.h"
 #include "myCode/grabber.h"
 #include "myCode/camera.h"
