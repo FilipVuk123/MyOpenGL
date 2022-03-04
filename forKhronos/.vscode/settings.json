@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "orqa_input.h": "c",
+        "orqa_opengl.h": "c",
+        "orqa_window.h": "c",
+        "kyfglib_defines.h": "c",
+        "ky_cxp_defines.h": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "gen_mash.h": "c",
+        "input.h": "c"
+    }
+}
